@@ -1,0 +1,7 @@
+{
+  "name": "reactive-feed",
+  "parts": [1],
+  "scene": "ReactiveFeed",
+  "module": "scene.py",
+  "skip": []
+}
