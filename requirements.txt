@@ -1,0 +1,3 @@
+manim==0.21.0
+manim-slides==5.7.0
+fonttools==4.66.1

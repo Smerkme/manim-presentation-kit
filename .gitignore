@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+assets/
+.local/
+media/
+slides/
+*.log
+*.mp4
+*.pptx
+examples/*/build/*
+!examples/*/build/frames.json
+.DS_Store
